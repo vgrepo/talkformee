@@ -42,7 +42,7 @@ class _MyAppState extends State<MyApp> {
       widget.settings.save();
     }
     super.initState();
-    //test
+    print("xxxxx");
   }
 
   @override
