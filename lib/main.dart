@@ -42,12 +42,6 @@ class _MyAppState extends State<MyApp> {
       widget.settings.save();
     }
     super.initState();
-    print('object');
-    print('object');
-       print('object');
-    print('object');
-       print('object');
-    print('object');
   }
 
   @override
